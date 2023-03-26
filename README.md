@@ -1,4 +1,4 @@
-Simple NLP scripting to analyze 200+ english translations of one of the most famous chinese texts, the Daodejing (Tao Te Ching)
+Simple NLP scripting to analyze 200+ english translations of one of the most famous Chinese texts, the Daodejing (Tao Te Ching)
 
 
 # Translating the ****_Laozi_****: Can Textual Analysis Indicate Translation Authority?
@@ -8,7 +8,7 @@ by Derick Olson (2015)
 This study analyzes over 180 English translations of the Daodejing by focusing on parallel translations  of the first chapter of the text, along with contextual information such as translator. Given this information, as well as a set of reputable translators, it ranks all translations in terms of quality as defined by the texts of the selected reputable translators.
 `
 
-I chose the Daodejing is an ideal source text for textual analysi because of the widespread availability of its English translations, as well as its short length. The goal of this research is to use well-established translations of a section of the Daodejing in order to train a computational model with which we can evaluate the quality of unknown status translations. We do this by representing each translation as a vector of scores, creating one "master vector" which is an ensemble of well-respected translations, and determining the similarity of each unknown translation vector with this master translation vector.
+I chose the Daodejing is an ideal source text for textual analysis because of the widespread availability of its English translations, as well as its short length. The goal of this research is to use well-established translations of a section of the Daodejing in order to train a computational model with which we can evaluate the quality of unknown status translations. We do this by representing each translation as a vector of scores, creating one "master vector" which is an ensemble of well-respected translations, and determining the similarity of each unknown translation vector with this master translation vector.
 
 **Background**
 
